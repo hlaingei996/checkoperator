@@ -1,0 +1,19 @@
+{
+    "name": "bit/checkoperator",
+    "description": "Check operator laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hlaingei",
+            "email": "hlaingei996@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "BIT\\Checkoperator\\": "src/"
+        }
+    },
+    "require": {}
+}
