@@ -7,7 +7,7 @@ composer require baganit/checkoperator
 
 How to use?
 ===============
-use BIT\Checkoperator\Checkoperator;
+use BaganIT\Checkoperator\Checkoperator;
 
 $checkop = new Checkoperator();
 return $checkop->checkoperator($phone);
