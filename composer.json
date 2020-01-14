@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "BIT\\Checkoperator\\": "src/"
+            "BaganIT\\Checkoperator\\": "src/"
         }
     },
     "require": {}

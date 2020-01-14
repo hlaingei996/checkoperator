@@ -1,6 +1,6 @@
 <?php
 
-namespace BIT\Checkoperator;
+namespace BaganIT\Checkoperator;
 
 class Checkoperator
 {
